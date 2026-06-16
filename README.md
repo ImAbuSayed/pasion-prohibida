@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-prohibida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Pasión prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-prohibida/) |
+| **Get License** | [Request Licensing for Pasión prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-prohibida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras y se para el tiempo, nena, no lo pienses más
+> Esta noche en Madrid somos dueños, deja el miedo atrás
+> Un deseo que quema en la sombra, pura electricidad
+> Cruzamos la línea sin frenos, pasión prohibida en la oscuridad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
