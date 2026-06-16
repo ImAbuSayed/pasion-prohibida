@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión prohibida
+
+This log tracks the cryptographic history and versioning for the song **Pasión prohibida** (pasion-prohibida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T15:27:25.506146 | `v1` | `147cbdf2b70f600deb8c12810ba967fef40328ec1d74171b8cee6cc782dba9b5` | `4174f063e6f20f1735b04d6209787b64012a001d4f79472d001c18102531751f` | `2026-06-16_pasion-prohibida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
